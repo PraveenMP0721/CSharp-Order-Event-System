@@ -1,0 +1,14 @@
+C:\Users\prave\Desktop\WiproTraining\OrderApp\bin\Debug\net10.0\OrderApp.exe
+C:\Users\prave\Desktop\WiproTraining\OrderApp\bin\Debug\net10.0\OrderApp.deps.json
+C:\Users\prave\Desktop\WiproTraining\OrderApp\bin\Debug\net10.0\OrderApp.runtimeconfig.json
+C:\Users\prave\Desktop\WiproTraining\OrderApp\bin\Debug\net10.0\OrderApp.dll
+C:\Users\prave\Desktop\WiproTraining\OrderApp\bin\Debug\net10.0\OrderApp.pdb
+C:\Users\prave\Desktop\WiproTraining\OrderApp\obj\Debug\net10.0\OrderApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prave\Desktop\WiproTraining\OrderApp\obj\Debug\net10.0\OrderApp.AssemblyInfoInputs.cache
+C:\Users\prave\Desktop\WiproTraining\OrderApp\obj\Debug\net10.0\OrderApp.AssemblyInfo.cs
+C:\Users\prave\Desktop\WiproTraining\OrderApp\obj\Debug\net10.0\OrderApp.csproj.CoreCompileInputs.cache
+C:\Users\prave\Desktop\WiproTraining\OrderApp\obj\Debug\net10.0\OrderApp.dll
+C:\Users\prave\Desktop\WiproTraining\OrderApp\obj\Debug\net10.0\refint\OrderApp.dll
+C:\Users\prave\Desktop\WiproTraining\OrderApp\obj\Debug\net10.0\OrderApp.pdb
+C:\Users\prave\Desktop\WiproTraining\OrderApp\obj\Debug\net10.0\OrderApp.genruntimeconfig.cache
+C:\Users\prave\Desktop\WiproTraining\OrderApp\obj\Debug\net10.0\ref\OrderApp.dll
